@@ -9,7 +9,7 @@ Platform:
 
 ---
 #### Producten Werkproces 1
-| Product  |  [https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp/card/4wk-usable-item] Link|
+| Product  |  Codecks – Functioneel Ontwerp / HLO GLU&MA|
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
