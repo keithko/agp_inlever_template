@@ -9,7 +9,7 @@ Platform:
 
 ---
 #### Producten Werkproces 1
-| Product  |  Codecks – Functioneel Ontwerp / HLO GLU&MA<https://ap.lc/PzWSv>|
+| Product  |  Link|
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
