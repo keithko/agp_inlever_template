@@ -38,7 +38,7 @@ Je kan items van de shop kopen om je te helpen.
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://unreal-academy.codecks.io/decks>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Logboek]: <https://mediacollegeamsterdam.sharepoint.com/:w:/r/teams/XR-labHLO/Gedeelde%20documenten/General/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.docx?d=w0cf309a08e9349c8b20631380ddeb72d&csf=1&web=1&e=3kDGet>
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp/card/4wk-usable-item>
    [RetrospectiveVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview?csf=1&web=1&e=qCy6e4>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
