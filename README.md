@@ -43,5 +43,5 @@ Je kan items van de shop kopen om je te helpen.
    [RetrospectiveVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview?csf=1&web=1&e=qCy6e4>
    [ReviewVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:b:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint%206/Sprint_Review_verslag.pdf?csf=1&web=1&e=iKpgR4>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint%206/Retrospective/videos?csf=1&web=1&e=5Tlvdv>
+   [Folder op teams]: <https://www.youtube.com/playlist?list=PLnBx3KKOKHtALh1aE0SLvpywmG3A-yhSj>
    
