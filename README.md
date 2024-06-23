@@ -41,5 +41,5 @@ Platform:
    [RetrospectiveVerslagen]: <https://github.com/keithko/agp_inlever_template/tree/master/OneDrive_2024-06-23/RetroSpective%20en%20SprintReview>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
-   [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
+   [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General?csf=1&web=1&e=rcnohQ>
    
