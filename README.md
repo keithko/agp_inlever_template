@@ -5,11 +5,13 @@ Platform:
 [Codex]
 
 ### Korte omschrijving van de game
-...
+Je zit op een steen in de ruimte en verdedig de portaal achter je van mosters die uit de rift komt.
+Doel is om ieder monster te vernietegen zonder te sterven
+Je kan items van de shop kopen om je te helpen.
 
 ---
 #### Producten Werkproces 1
-| Product  |  Link|
+| Product  | Link |
 | ------ |  ------ |
 | Link naar online product backlog (Codex) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
@@ -38,7 +40,7 @@ Platform:
    [Backlog]: <https://unreal-academy.codecks.io/decks>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp/card/4wk-usable-item>
-   [RetrospectiveVerslagen]: <https://github.com/keithko/agp_inlever_template/tree/master/OneDrive_2024-06-23/RetroSpective%20en%20SprintReview>
+   [RetrospectiveVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview?csf=1&web=1&e=qCy6e4>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint%206/Retrospective/videos?csf=1&web=1&e=5Tlvdv>
