@@ -1,15 +1,15 @@
-## [titel van jullie game]
-Project team:[jullie namen]
+## [The rift Guardian]
+Project team:[Vr shooter]
 
 Platform:
-[jullie platfom]
+[Codex]
 
 ### Korte omschrijving van de game
 ...
 
 ---
 #### Producten Werkproces 1
-| Product  | Link |
+| Product  | Link <https://unreal-academy.codecks.io/decks/152-sprint-backlog-06/card/532-landmine-efects>|
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
