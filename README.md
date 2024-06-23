@@ -38,7 +38,7 @@ Platform:
    [Backlog]: <https://unreal-academy.codecks.io/decks>
    [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
-   [RetrospectiveVerslagen]: <https://www.mijnmytheprototype.nl>
+   [RetrospectiveVerslagen]: <https://github.com/keithko/agp_inlever_template/tree/master/OneDrive_2024-06-23/RetroSpective%20en%20SprintReview>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
