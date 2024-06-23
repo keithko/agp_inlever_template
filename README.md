@@ -41,7 +41,7 @@ Je kan items van de shop kopen om je te helpen.
    [Logboek]: <https://mediacollegeamsterdam.sharepoint.com/:w:/r/teams/XR-labHLO/Gedeelde%20documenten/General/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.docx?d=w0cf309a08e9349c8b20631380ddeb72d&csf=1&web=1&e=3kDGet>
    [GameDesignDoc]: <https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp/card/4wk-usable-item>
    [RetrospectiveVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview?csf=1&web=1&e=qCy6e4>
-   [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
+   [ReviewVerslagen]: <https://mediacollegeamsterdam.sharepoint.com/:b:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint%206/Sprint_Review_verslag.pdf?csf=1&web=1&e=iKpgR4>
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://mediacollegeamsterdam.sharepoint.com/:f:/r/teams/XR-labHLO/Gedeelde%20documenten/General/RetroSpective%20en%20SprintReview/Sprint%206/Retrospective/videos?csf=1&web=1&e=5Tlvdv>
    
